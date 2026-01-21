@@ -4,19 +4,16 @@ A unified, standards-based framework for managing AI risks by aligning NIST AI R
 
 ## What it Does
 
-Standardizes AI risk identification, assessment, and mitigation
+Standardizes AI risk identification, assessment, and mitigation.
 
-Reduces compliance and control redundancy
+Reduces compliance and control redundancy.
 
-Improves security, transparency, and governance
+Improves security, transparency, and governance.
 
 ## How
 
-Control and risk mapping across standards
+Control and risk mapping across standards.
 
-LLM-based RAG prototype for AI risk analysis
-
-Validation using sample AI use cases
 
 ## Goal
 
